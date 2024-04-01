@@ -3,7 +3,7 @@ package Trabajo;
 import java.util.ArrayList;
 
 /**
- * Clase que representa un equipo de Valorant
+ * Clase que representa un equipo de CSGO
  */
 
 public class CSGO {
@@ -20,7 +20,7 @@ public class CSGO {
 	
 
 	/**
-	 * Constructor de la clase VALORANT
+	 * Constructor de la clase CSGO
 	 * @param equipo El nombre del equipo
 	 */
 	public CSGO(String equipo) {
@@ -66,7 +66,7 @@ public class CSGO {
 	 */
 	public void establecerNombreEquipo() {
 		
-		this.equipo = "Sentinels";
+		this.equipo = "NAVI";
 		
 	}
 	
@@ -75,11 +75,11 @@ public class CSGO {
 	 */
 	public void inicializarJugadores() {
 		
-		nombre.add("Sacy");
-		nombre.add("TenZ");
-		nombre.add("zekken");
-		nombre.add("johnqt");
-		nombre.add("Zellsis");
+		nombre.add("b1t");
+		nombre.add("Aleksib");
+		nombre.add("iM");
+		nombre.add("jL");
+		nombre.add("w0nderful");
 		
 	}
 
