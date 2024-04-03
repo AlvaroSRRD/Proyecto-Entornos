@@ -2,7 +2,16 @@ package Trabajo;
 
 import java.util.Scanner;
 
+/**
+ * Clase principal que muestra los ganadores de los dos torneos de videojuegos
+ */
+
 public class CSGOvsVALORANT {
+	
+	/**
+	 * Metodo principal que muestra los ganadores
+	 * @param args Argumentos de la linea de comandos
+	 */
 
     public static void main(String[] args) {
        
